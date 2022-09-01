@@ -1,10 +1,11 @@
-function FindNeedle(haystack, needle) {
-  // Solución 2 (n2)
-  for (let i = 0; i < haystack.length; i++) {
-    if (haystack.slice(i, needle.length + i) === needle) return i;
-  }
-  return -1;
-}
+// function FindNeedle(haystack, needle) {
+//   // Solución 2 (n2)
+//   for (let i = 0; i < haystack.length; i++) {
+//     if (haystack.slice(i, needle.length + i) === needle) return i;
+//   }
+//   return -1;
+// }
+
 
 // Solución 1   O(n*m)
 // for (let j = 0; j < needle.length; j++) {
@@ -20,6 +21,24 @@ function FindNeedle(haystack, needle) {
 //      Si terminamos de recorrer el needle => Retornar el índice porque encontramos la palabra
 
 // Si terminamos de recorrer el haystack y no encontramos nada => -1
+
+// En definitiva lo que tengo que hacer es el codigo de funcionamiento de un
+// indexOf
+function FindNeedle(haystack, needle) {
+  let needleLength = needle.length  
+  let needleFirstIndex = needle[0]
+  let option = ''
+
+  for(let index in haystack){
+    if(haystack[index] === needleFirstIndex)  
+    lastIndex = index + needleLength
+    option = haystack.slice(index, lastIndex) 
+    //? Me corta el haystack  entre el letra que arranca
+    //? el needle y el largo del mismo, si hay coincidencia lo devuelve.
+    if(option === needle) return index
+  }
+    return -1
+}
 
 module.exports = FindNeedle;
 
