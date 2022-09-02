@@ -40,6 +40,31 @@ function FindNeedle(haystack, needle) {
     return -1
 }
 
+var twoSum = function(nums, target) {
+  let index = []
+  
+  for(let i=0; i < nums.length; i++) {
+    let acc = 0
+    index.push(i)
+    acc = nums[i] //3 2 4
+
+    for(let j=1; j <= nums.length; j++){
+      acc += nums[j] // 3+2 
+      console.log(acc);
+      index.push(j)
+      if(acc > target) {
+        console.log(acc);
+          acc = 0
+          index = []
+      }
+      if(acc === target) return index
+  }
+  }
+};
+
+console.log(twoSum([3,2,4],5))
+
+
 module.exports = FindNeedle;
 
 console.log(FindNeedle("react-redux", "redux")); //(6);
