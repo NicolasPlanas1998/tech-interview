@@ -7,7 +7,6 @@ function intersection (arr1, arr2) {
     if(!uniqueValueArr.includes(allArr[i])) uniqueValueArr.push(allArr[i])
     else repitedValue.push(allArr[i])
   }
-
   return repitedValue  
 }
 
