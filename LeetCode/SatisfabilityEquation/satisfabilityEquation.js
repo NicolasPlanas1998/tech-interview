@@ -19,6 +19,41 @@
 
 
 var equationsPossible = function(equations) {
-    if(equations[0][1] === equations[1][1] )return true
-    else return false
+    // if(equations.length > 1){
+    //     if(equations[0][1] === equations[1][1] )return true
+    //     else return false
+    // }else if(equations[0].includes("!")){
+    //     console.log(equations[0][0],equations[0][3]);
+    //     return equations[0][0] !== equations[0][3]
+    // }
+
+    // return true
+    let equalArray =''
+    let differentArray =[]
+
+    equations.forEach(string => {
+        if(string[1] === "!") differentArray.push([string[0],string[3]])
+        else {
+            // let newstring = [string[0],string[3]
+            equalArray += string[0]
+            equalArray += string[3]
+        }
+
+    });
+    console.log(differentArray);
+    console.log(equalArray);
+    for (let i = 0; i < differentArray.length; i++) {
+        console.log(i);
+        console.log(differentArray[i][1]);
+        if(differentArray[i][0] === differentArray[i][1]) return false
+        if(equalArray.includes(differentArray[i][0]) && equalArray.includes(differentArray[i][1])) return false
+
+        
+    }
+    return true
 };
+
+// console.log(equationsPossible(["a!=b"]));
+console.log(equationsPossible(["a==b","e==c","b==c","f!=e"]))
+console.log(equationsPossible(["e==e","d!=e","c==d","d!=e"]))
+// igualdades e c d
