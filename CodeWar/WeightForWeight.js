@@ -49,7 +49,8 @@ function orderWeight(strng) {
         let index = mapping.indexOf(el)
         return saveArr[index]  
     })
-    return arrSumWeight
+    let result = num.toString().replaceAll(","," ")
+    return result
 }
 
 console.log(orderWeight("56 65 74 100 99 68 86 180 90"));
