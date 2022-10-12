@@ -8,19 +8,34 @@
 function solution(number){
     if(number < 0 ) return 0
 
+    let total = 0
     let arr = []
-    for (let i = 1; i < number; i++) {
+    for (let i = 0; i < number; i++) {
         if(i%3 === 0 && i%5 === 0) arr.push(i)
         else if(i%3 === 0) arr.push(i)
         else if(i%5 === 0) arr.push(i)
     }
-    let total = arr[0]
-    total = arr.length > 1 && arr.reduce((ac,el)=>{
-        return ac+el
-    })
 
+    if(arr.length > 1 ){
+        total = arr.reduce((ac,el)=>{
+            return ac+el
+        })
+    }
     return total
 }
 
 
-console.log(solution(10));
+console.log(solution());
+
+//! Better solution
+
+// function solution(number){
+//     var sum = 0;
+    
+//     for(var i = 1;i< number; i++){
+//       if(i % 3 == 0 || i % 5 == 0){
+//         sum += i
+//       }
+//     }
+//     return sum;
+//   }
