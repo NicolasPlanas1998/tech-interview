@@ -37,4 +37,8 @@ function bouncingBall(h,  bounce,  window) {
 
 
   console.log(bouncingBall(2, 0.5, 1)) // 3
-//   console.log(bouncingBall(3.0, 1.0, 1.5)) // 3
+  console.log(bouncingBall(3.0, 1.0, 1.5)) // 3
+
+module.exports ={
+  bouncingBall
+}

@@ -21,9 +21,6 @@ function digitalRoot(n) {
     return digitalRoot(total)
   }
 
-
-
-
 //! Best practice, its insane anyways cause he is not refactoring, just brilliant math
 // function digitalRoot(n) {
 //     return (n - 1) % 9 + 1;
