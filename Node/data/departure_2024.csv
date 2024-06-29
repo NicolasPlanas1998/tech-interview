@@ -1,0 +1,493 @@
+YEAR,MONTH_NUM,MONTH_MON,FLT_DATE,APT_ICAO,APT_NAME,STATE_NAME,FLT_DEP_1,FLT_DEP_IFR_2,DLY_ATC_PRE_2,FLT_DEP_3,DLY_ATC_PRE_3
+2024,01,JAN,2024-01-01,EBAW,Antwerp,Belgium,2,,,,
+2024,01,JAN,2024-01-01,EBBR,Brussels,Belgium,195,195,125,134,89
+2024,01,JAN,2024-01-01,EBCI,Charleroi,Belgium,79,78,41,66,37
+2024,01,JAN,2024-01-01,EBLG,Liège,Belgium,17,,,,
+2024,01,JAN,2024-01-01,EBOS,Ostend-Bruges,Belgium,8,,,,
+2024,01,JAN,2024-01-01,EDDB,Berlin - Brandenburg,Germany,198,198,79,142,55
+2024,01,JAN,2024-01-01,EDDC,Dresden,Germany,6,6,0,3,0
+2024,01,JAN,2024-01-01,EDDE,Erfurt,Germany,1,1,0,,
+2024,01,JAN,2024-01-01,EDDF,Frankfurt,Germany,463,461,67,306,112
+2024,01,JAN,2024-01-01,EDDG,Muenster-Osnabrueck,Germany,6,,,4,0
+2024,01,JAN,2024-01-01,EDDH,Hamburg,Germany,119,119,72,90,81
+2024,01,JAN,2024-01-01,EDDK,Cologne-Bonn,Germany,70,,,52,19
+2024,01,JAN,2024-01-01,EDDL,Dusseldorf,Germany,136,136,10,94,8
+2024,01,JAN,2024-01-01,EDDM,Munich,Germany,320,320,0,243,18
+2024,01,JAN,2024-01-01,EDDN,Nuremberg,Germany,30,,,18,0
+2024,01,JAN,2024-01-01,EDDP,Leipzig-Halle,Germany,24,24,0,5,0
+2024,01,JAN,2024-01-01,EDDS,Stuttgart,Germany,65,66,5,47,6
+2024,01,JAN,2024-01-01,EDDV,Hanover,Germany,35,35,16,18,3
+2024,01,JAN,2024-01-01,EDDW,Bremen,Germany,18,17,0,16,0
+2024,01,JAN,2024-01-01,EETN,Tallinn,Estonia,45,46,5,36,15
+2024,01,JAN,2024-01-01,EFHK,Helsinki - Vantaa,Finland,165,165,4,160,4
+2024,01,JAN,2024-01-01,EGAA,Belfast - Aldergrove,United Kingdom,72,,,59,22
+2024,01,JAN,2024-01-01,EGAC,Belfast - City Airport,United Kingdom,38,,,10,0
+2024,01,JAN,2024-01-01,EGAE,Londonderry - Eglinton,United Kingdom,3,,,,
+2024,01,JAN,2024-01-01,EGBB,Birmingham,United Kingdom,92,92,24,62,51
+2024,01,JAN,2024-01-01,EGCC,Manchester,United Kingdom,209,,,144,84
+2024,01,JAN,2024-01-01,EGGD,Bristol,United Kingdom,95,95,45,84,34
+2024,01,JAN,2024-01-01,EGGW,London - Luton,United Kingdom,158,158,56,87,69
+2024,01,JAN,2024-01-01,EGHI,Southampton,United Kingdom,12,,,2,0
+2024,01,JAN,2024-01-01,EGKB,Biggin Hill,United Kingdom,16,,,,
+2024,01,JAN,2024-01-01,EGKK,London - Gatwick,United Kingdom,333,,,235,510
+2024,01,JAN,2024-01-01,EGLC,London - City,United Kingdom,45,45,7,17,7
+2024,01,JAN,2024-01-01,EGLF,Farnborough,United Kingdom,17,,,,
+2024,01,JAN,2024-01-01,EGLL,London - Heathrow,United Kingdom,551,,,135,275
+2024,01,JAN,2024-01-01,EGNT,Newcastle,United Kingdom,34,,,20,0
+2024,01,JAN,2024-01-01,EGNX,East Midlands,United Kingdom,33,,,15,0
+2024,01,JAN,2024-01-01,EGPD,Aberdeen,United Kingdom,15,15,0,10,0
+2024,01,JAN,2024-01-01,EGPF,Glasgow,United Kingdom,53,55,0,33,14
+2024,01,JAN,2024-01-01,EGPH,Edinburgh,United Kingdom,131,131,30,98,41
+2024,01,JAN,2024-01-01,EGSS,London - Stansted,United Kingdom,244,,,194,171
+2024,01,JAN,2024-01-01,EHAM,Amsterdam - Schiphol,Netherlands,616,,,472,1006
+2024,01,JAN,2024-01-01,EHBK,Maastricht-Aachen,Netherlands,4,,,2,0
+2024,01,JAN,2024-01-01,EHGG,Groningen,Netherlands,2,,,,
+2024,01,JAN,2024-01-01,EHRD,Rotterdam,Netherlands,21,,,,
+2024,01,JAN,2024-01-01,EICK,Cork,Ireland,30,,,26,3
+2024,01,JAN,2024-01-01,EIDL,Donegal,Ireland,1,,,,
+2024,01,JAN,2024-01-01,EIDW,Dublin,Ireland,304,,,244,159
+2024,01,JAN,2024-01-01,EIKN,Connaught,Ireland,6,,,6,0
+2024,01,JAN,2024-01-01,EIKY,Kerry - Farranfore,Ireland,6,,,5,0
+2024,01,JAN,2024-01-01,EINN,Shannon,Ireland,21,,,17,0
+2024,01,JAN,2024-01-01,EISG,Sligo,Ireland,1,,,,
+2024,01,JAN,2024-01-01,EIWF,Waterford,Ireland,0,,,,
+2024,01,JAN,2024-01-01,EKCH,Copenhagen - Kastrup,Denmark,239,239,0,192,12
+2024,01,JAN,2024-01-01,ELLX,Luxembourg,Luxembourg,83,82,16,57,31
+2024,01,JAN,2024-01-01,ENAL,Alesund,Norway,11,,,8,0
+2024,01,JAN,2024-01-01,ENAN,Andenes,Norway,3,,,3,0
+2024,01,JAN,2024-01-01,ENAT,Alta,Norway,8,,,6,0
+2024,01,JAN,2024-01-01,ENBL,Forde Bringeland,Norway,3,,,3,0
+2024,01,JAN,2024-01-01,ENBN,Bronnoysund Bronnoy,Norway,1,,,,
+2024,01,JAN,2024-01-01,ENBO,Bodø,Norway,35,,,30,0
+2024,01,JAN,2024-01-01,ENBR,Bergen,Norway,88,78,0,75,0
+2024,01,JAN,2024-01-01,ENBS,Batsfjord,Norway,3,,,3,0
+2024,01,JAN,2024-01-01,ENBV,Berlevåg,Norway,3,,,2,0
+2024,01,JAN,2024-01-01,ENCN,Kristiansand Kjevik,Norway,8,,,7,0
+2024,01,JAN,2024-01-01,ENDU,Bardufoss,Norway,3,,,2,0
+2024,01,JAN,2024-01-01,ENEV,Harstad - Narvik Evenes,Norway,9,,,9,0
+2024,01,JAN,2024-01-01,ENFL,Florø,Norway,6,,,3,0
+2024,01,JAN,2024-01-01,ENGM,Oslo - Gardermoen,Norway,221,221,146,188,79
+2024,01,JAN,2024-01-01,ENHD,Haugesund,Norway,5,,,4,0
+2024,01,JAN,2024-01-01,ENHF,Hammerfest,Norway,12,,,8,0
+2024,01,JAN,2024-01-01,ENHV,Honningsvåg Valan,Norway,1,,,1,0
+2024,01,JAN,2024-01-01,ENKB,Kristiansund Kvernberget,Norway,5,,,3,0
+2024,01,JAN,2024-01-01,ENKR,Kirkenes Høybuktmoen,Norway,7,,,6,0
+2024,01,JAN,2024-01-01,ENLK,Leknes,Norway,5,,,5,0
+2024,01,JAN,2024-01-01,ENMH,Mehamn,Norway,3,,,3,0
+2024,01,JAN,2024-01-01,ENML,Molde Årø,Norway,4,,,4,0
+2024,01,JAN,2024-01-01,ENMS,Mosjøen Kjærstad,Norway,9,,,7,0
+2024,01,JAN,2024-01-01,ENNA,Lakselv Banak,Norway,1,,,,
+2024,01,JAN,2024-01-01,ENNM,Namsos Høknesøra,Norway,2,,,2,0
+2024,01,JAN,2024-01-01,ENOV,Orsta¿Volda Hovden,Norway,4,,,4,0
+2024,01,JAN,2024-01-01,ENRA,Mo i Rana Røssvoll,Norway,6,,,5,0
+2024,01,JAN,2024-01-01,ENRM,Rorvik Ryum,Norway,2,,,2,0
+2024,01,JAN,2024-01-01,ENRO,Roros,Norway,2,,,2,0
+2024,01,JAN,2024-01-01,ENRS,Rost,Norway,1,,,1,0
+2024,01,JAN,2024-01-01,ENSB,Svalbard Longyear,Norway,1,,,1,0
+2024,01,JAN,2024-01-01,ENSD,Sandane  Anda,Norway,2,,,2,0
+2024,01,JAN,2024-01-01,ENSG,Sogndal Haukåsen,Norway,5,,,5,0
+2024,01,JAN,2024-01-01,ENSH,Svolvær Helle,Norway,5,,,5,0
+2024,01,JAN,2024-01-01,ENSK,Stokmarknes Skagen,Norway,4,,,4,0
+2024,01,JAN,2024-01-01,ENSR,Sorkjosen,Norway,2,,,2,0
+2024,01,JAN,2024-01-01,ENSS,Vardø Svartnes,Norway,1,,,1,0
+2024,01,JAN,2024-01-01,ENST,Sandnessjøen Stokka,Norway,0,,,,
+2024,01,JAN,2024-01-01,ENTC,Tromsø,Norway,50,,,45,0
+2024,01,JAN,2024-01-01,ENVA,Trondheim,Norway,48,47,0,42,31
+2024,01,JAN,2024-01-01,ENVD,Vadsø,Norway,5,,,6,0
+2024,01,JAN,2024-01-01,ENVR,Værøy,Norway,1,,,,
+2024,01,JAN,2024-01-01,ENZV,Stavanger,Norway,55,38,0,34,0
+2024,01,JAN,2024-01-01,EPBY,Bydgoszcz,Poland,5,,,4,0
+2024,01,JAN,2024-01-01,EPGD,Gdansk,Poland,55,,,32,4
+2024,01,JAN,2024-01-01,EPKK,Krakow - Balice,Poland,88,,,71,75
+2024,01,JAN,2024-01-01,EPKT,Katowice - Pyrzowice,Poland,32,,,12,0
+2024,01,JAN,2024-01-01,EPLB,Lublin,Poland,3,,,2,0
+2024,01,JAN,2024-01-01,EPLL,Lodz - Lublinek,Poland,4,,,4,0
+2024,01,JAN,2024-01-01,EPMO,Warszawa - Modlin,Poland,32,,,27,10
+2024,01,JAN,2024-01-01,EPPO,Poznan - Lawica,Poland,22,,,20,0
+2024,01,JAN,2024-01-01,EPRZ,Rzeszow - Jasionka,Poland,7,,,6,0
+2024,01,JAN,2024-01-01,EPSC,Szczecin - Goleniów,Poland,4,,,3,0
+2024,01,JAN,2024-01-01,EPSY,Olsztyn-Mazury,Poland,2,,,2,0
+2024,01,JAN,2024-01-01,EPWA,Warszawa - Chopina,Poland,190,190,112,144,86
+2024,01,JAN,2024-01-01,EPWR,Wroclaw - Strachowice,Poland,34,,,27,2
+2024,01,JAN,2024-01-01,EPZG,Zielona Gora - Babimost,Poland,0,,,,
+2024,01,JAN,2024-01-01,ESGG,Göteborg,Sweden,43,43,0,32,3
+2024,01,JAN,2024-01-01,ESSA,Stockholm - Arlanda,Sweden,195,195,19,152,25
+2024,01,JAN,2024-01-01,EVRA,Riga,Latvia,78,78,0,74,3
+2024,01,JAN,2024-01-01,EYKA,Kaunas,Lithuania,9,,,7,0
+2024,01,JAN,2024-01-01,EYPA,Palanga,Lithuania,3,,,3,0
+2024,01,JAN,2024-01-01,EYSA,Siauliai,Lithuania,2,,,,
+2024,01,JAN,2024-01-01,EYVI,Vilnius,Lithuania,38,,,28,0
+2024,01,JAN,2024-01-01,GCFV,Fuerteventura,Spain,68,66,19,32,10
+2024,01,JAN,2024-01-01,GCGM,La Gomera,Spain,4,,,4,0
+2024,01,JAN,2024-01-01,GCHI,Hierro,Spain,6,,,3,0
+2024,01,JAN,2024-01-01,GCLA,La Palma,Spain,22,,,14,0
+2024,01,JAN,2024-01-01,GCLP,Gran Canaria,Spain,160,160,34,87,21
+2024,01,JAN,2024-01-01,GCRR,Lanzarote,Spain,80,79,0,43,0
+2024,01,JAN,2024-01-01,GCTS,Tenerife Sur - Reina Sofia,Spain,114,114,4,55,12
+2024,01,JAN,2024-01-01,GCXO,Tenerife North,Spain,83,,,61,6
+2024,01,JAN,2024-01-01,GEML,Melilla,Spain,11,,,,
+2024,01,JAN,2024-01-01,GMAD,Al Massira,Morocco,29,,,10,5
+2024,01,JAN,2024-01-01,GMFF,Saïss,Morocco,20,,,11,0
+2024,01,JAN,2024-01-01,GMME,Rabat-Salé,Morocco,17,,,9,22
+2024,01,JAN,2024-01-01,GMMN,Mohammed V International,Morocco,115,,,9,5
+2024,01,JAN,2024-01-01,GMMX,Menara,Morocco,91,,,53,80
+2024,01,JAN,2024-01-01,GMTT,Ibn Batouta,Morocco,26,,,11,0
+2024,01,JAN,2024-01-01,LATI,Tirana,Albania,73,,,15,11
+2024,01,JAN,2024-01-01,LBSF,Sofia,Bulgaria,57,57,0,28,3
+2024,01,JAN,2024-01-01,LCLK,Larnaca,Cyprus,55,,,12,5
+2024,01,JAN,2024-01-01,LCPH,Paphos,Cyprus,25,,,24,15
+2024,01,JAN,2024-01-01,LDZA,Zagreb,Croatia,59,59,4,24,4
+2024,01,JAN,2024-01-01,LEAL,Alicante,Spain,122,122,67,93,51
+2024,01,JAN,2024-01-01,LEAM,Almeria,Spain,8,,,2,0
+2024,01,JAN,2024-01-01,LEAS,Asturias,Spain,17,,,8,0
+2024,01,JAN,2024-01-01,LEBB,Bilbao,Spain,59,59,3,47,10
+2024,01,JAN,2024-01-01,LEBL,Barcelona,Spain,432,,,341,241
+2024,01,JAN,2024-01-01,LEBZ,Badajoz,Spain,2,,,,
+2024,01,JAN,2024-01-01,LECO,La Coruna,Spain,10,,,7,0
+2024,01,JAN,2024-01-01,LECU,Madrid - Cuatro Viento,Spain,1,,,,
+2024,01,JAN,2024-01-01,LEDA,Lleida - Alguaire,Spain,1,,,,
+2024,01,JAN,2024-01-01,LEGE,Gerona,Spain,11,,,8,0
+2024,01,JAN,2024-01-01,LEGR,Granada,Spain,10,,,7,0
+2024,01,JAN,2024-01-01,LEIB,Ibiza,Spain,40,,,22,0
+2024,01,JAN,2024-01-01,LEJR,Jerez De La Frontera,Spain,6,,,2,0
+2024,01,JAN,2024-01-01,LELN,Leon,Spain,3,,,,
+2024,01,JAN,2024-01-01,LEMD,Madrid - Barajas,Spain,510,,,231,143
+2024,01,JAN,2024-01-01,LEMG,Málaga,Spain,189,185,57,140,59
+2024,01,JAN,2024-01-01,LEMH,Mahon,Spain,15,,,6,0
+2024,01,JAN,2024-01-01,LEPA,Palma de Mallorca,Spain,162,,,121,44
+2024,01,JAN,2024-01-01,LEPP,Noain Pamplona,Spain,2,,,,
+2024,01,JAN,2024-01-01,LERT,Rota,Spain,0,,,,
+2024,01,JAN,2024-01-01,LESB,Son Bonet,Spain,1,,,,
+2024,01,JAN,2024-01-01,LESO,San Sebastian,Spain,4,,,1,0
+2024,01,JAN,2024-01-01,LEST,Santiago,Spain,27,,,23,8
+2024,01,JAN,2024-01-01,LETO,Madrid - Torrejon,Spain,0,,,,
+2024,01,JAN,2024-01-01,LEVC,Valencia,Spain,102,102,20,78,29
+2024,01,JAN,2024-01-01,LEVD,Valladolid,Spain,2,,,2,0
+2024,01,JAN,2024-01-01,LEVT,Vitoria,Spain,1,,,1,0
+2024,01,JAN,2024-01-01,LEVX,Vigo,Spain,7,,,5,1
+2024,01,JAN,2024-01-01,LEXJ,Santander,Spain,12,,,9,0
+2024,01,JAN,2024-01-01,LEZG,Zaragoza,Spain,9,,,7,0
+2024,01,JAN,2024-01-01,LEZL,Sevilla,Spain,89,,,70,19
+2024,01,JAN,2024-01-01,LFAQ,Albert-Bray,France,0,,,,
+2024,01,JAN,2024-01-01,LFBD,Bordeaux-Mérignac,France,61,,,48,5
+2024,01,JAN,2024-01-01,LFBE,Bergerac-Roumanière,France,2,,,,
+2024,01,JAN,2024-01-01,LFBH,La Rochelle-Ile de Ré,France,3,,,3,0
+2024,01,JAN,2024-01-01,LFBI,Poitiers-Biard,France,1,,,1,0
+2024,01,JAN,2024-01-01,LFBL,Limoges-Bellegarde,France,2,,,2,0
+2024,01,JAN,2024-01-01,LFBO,Toulouse-Blagnac,France,81,81,38,65,35
+2024,01,JAN,2024-01-01,LFBP,Pau-Pyrénées,France,4,,,3,0
+2024,01,JAN,2024-01-01,LFBT,Tarbes-Lourdes Pyrénées,France,4,,,,
+2024,01,JAN,2024-01-01,LFBZ,Biarritz-Bayonne-Anglet,France,7,,,4,0
+2024,01,JAN,2024-01-01,LFGJ,Dôle-Tavaux,France,1,,,1,0
+2024,01,JAN,2024-01-01,LFJL,Metz-Nancy-Lorraine,France,2,,,,
+2024,01,JAN,2024-01-01,LFKB,Bastia-Poretta,France,13,,,1,0
+2024,01,JAN,2024-01-01,LFKC,Calvi-Sainte-Catherine,France,6,,,,
+2024,01,JAN,2024-01-01,LFKF,Figari-Sud Corse,France,6,,,,
+2024,01,JAN,2024-01-01,LFKJ,Ajaccio-Napoléon-Bonaparte,France,13,,,,
+2024,01,JAN,2024-01-01,LFLB,Chambéry-Aix-les-Bains,France,17,,,,
+2024,01,JAN,2024-01-01,LFLC,Clermont-Ferrand-Auvergne,France,5,,,3,0
+2024,01,JAN,2024-01-01,LFLI,Annemasse,France,1,,,,
+2024,01,JAN,2024-01-01,LFLL,Lyon-Saint-Exupéry,France,101,101,43,60,11
+2024,01,JAN,2024-01-01,LFLP,Annecy-Meythet,France,1,,,,
+2024,01,JAN,2024-01-01,LFLS,Grenoble-Isère,France,13,,,4,0
+2024,01,JAN,2024-01-01,LFLY,Lyon-Bron,France,8,,,,
+2024,01,JAN,2024-01-01,LFMD,Cannes-Mandelieu,France,5,,,,
+2024,01,JAN,2024-01-01,LFMI,Istres-Le Tubé,France,1,,,,
+2024,01,JAN,2024-01-01,LFMK,Carcassonne-Salvaza,France,3,,,2,0
+2024,01,JAN,2024-01-01,LFML,Marseille-Provence,France,109,110,14,58,11
+2024,01,JAN,2024-01-01,LFMN,Nice-Côte d’Azur,France,150,150,69,84,32
+2024,01,JAN,2024-01-01,LFMP,Perpignan-Rivesaltes,France,3,,,1,0
+2024,01,JAN,2024-01-01,LFMT,Montpellier-Méditerranée,France,21,,,7,0
+2024,01,JAN,2024-01-01,LFMU,Béziers-Vias,France,1,,,1,0
+2024,01,JAN,2024-01-01,LFMV,Avignon-Caumont,France,0,,,,
+2024,01,JAN,2024-01-01,LFOB,Beauvais-Tillé,France,60,,,47,34
+2024,01,JAN,2024-01-01,LFOK,Châlons-Vatry,France,1,,,,
+2024,01,JAN,2024-01-01,LFOT,Tours-Val de Loire,France,4,,,3,0
+2024,01,JAN,2024-01-01,LFPB,Paris-Le Bourget,France,49,,,,
+2024,01,JAN,2024-01-01,LFPG,Paris-Charles-de-Gaulle,France,579,,,454,219
+2024,01,JAN,2024-01-01,LFPN,Toussus-le-Noble,France,0,,,,
+2024,01,JAN,2024-01-01,LFPO,Paris-Orly,France,275,275,142,109,41
+2024,01,JAN,2024-01-01,LFQQ,Lille-Lesquin,France,21,,,10,0
+2024,01,JAN,2024-01-01,LFRB,Brest-Bretagne,France,0,,,,
+2024,01,JAN,2024-01-01,LFRD,Dinard-Pleurtuit-Saint-Malo,France,1,,,,
+2024,01,JAN,2024-01-01,LFRK,Caen-Carpiquet,France,5,,,,
+2024,01,JAN,2024-01-01,LFRN,Rennes-Saint-Jacques,France,13,,,6,0
+2024,01,JAN,2024-01-01,LFRS,Nantes-Atlantique,France,65,,,38,7
+2024,01,JAN,2024-01-01,LFSB,Bâle-Mulhouse,France,81,81,35,61,39
+2024,01,JAN,2024-01-01,LFSL,Brive-Souillac,France,1,,,1,0
+2024,01,JAN,2024-01-01,LFST,Strasbourg-Entzheim,France,19,,,3,0
+2024,01,JAN,2024-01-01,LFTH,Hyères-Le Palyvestre,France,4,,,,
+2024,01,JAN,2024-01-01,LFTW,Nîmes-Garons,France,1,,,1,0
+2024,01,JAN,2024-01-01,LGAV,Athens,Greece,229,,,135,45
+2024,01,JAN,2024-01-01,LGIR,Heraklion,Greece,14,,,5,7
+2024,01,JAN,2024-01-01,LGKF,Kefallinia,Greece,1,,,,
+2024,01,JAN,2024-01-01,LGKO,Kos,Greece,6,,,2,0
+2024,01,JAN,2024-01-01,LGKR,Corfu,Greece,5,,,2,0
+2024,01,JAN,2024-01-01,LGMK,Mikonos,Greece,2,,,1,0
+2024,01,JAN,2024-01-01,LGRP,Rodos,Greece,10,,,5,0
+2024,01,JAN,2024-01-01,LGSA,Khania - Souda,Greece,12,,,6,0
+2024,01,JAN,2024-01-01,LGSR,Santorini,Greece,8,,,3,0
+2024,01,JAN,2024-01-01,LGTS,Thessaloniki,Greece,55,,,44,7
+2024,01,JAN,2024-01-01,LGZA,Zakinthos,Greece,3,,,1,0
+2024,01,JAN,2024-01-01,LHBP,Budapest - Ferihegy,Hungary,148,148,14,79,48
+2024,01,JAN,2024-01-01,LIBR,Brindisi,Italy,18,,,17,58
+2024,01,JAN,2024-01-01,LICC,Catania,Italy,100,99,176,72,59
+2024,01,JAN,2024-01-01,LICJ,Palermo Falcone-Borsellino,Italy,69,,,52,17
+2024,01,JAN,2024-01-01,LIMC,Milan - Malpensa,Italy,252,254,448,157,280
+2024,01,JAN,2024-01-01,LIME,Bergamo,Italy,147,147,250,121,275
+2024,01,JAN,2024-01-01,LIMF,Torino Caselle,Italy,54,,,32,170
+2024,01,JAN,2024-01-01,LIML,Milan - Linate,Italy,132,132,115,101,100
+2024,01,JAN,2024-01-01,LIPE,Bologna,Italy,99,99,96,65,26
+2024,01,JAN,2024-01-01,LIPH,Treviso,Italy,25,,,19,55
+2024,01,JAN,2024-01-01,LIPZ,Venice,Italy,110,110,159,73,103
+2024,01,JAN,2024-01-01,LIRA,Rome - Ciampino,Italy,45,,,29,11
+2024,01,JAN,2024-01-01,LIRF,Rome - Fiumicino,Italy,364,364,769,247,466
+2024,01,JAN,2024-01-01,LIRN,Naples,Italy,99,99,165,78,130
+2024,01,JAN,2024-01-01,LIRP,Pisa San Giusto,Italy,40,,,34,10
+2024,01,JAN,2024-01-01,LJLJ,Ljubljana,Slovenia,15,16,5,9,4
+2024,01,JAN,2024-01-01,LKMT,Ostrava,Czech Republic,3,,,2,0
+2024,01,JAN,2024-01-01,LKPR,Prague,Czech Republic,132,,,84,35
+2024,01,JAN,2024-01-01,LKTB,Brno-Tuřany,Czech Republic,1,,,1,0
+2024,01,JAN,2024-01-01,LLBG,Tel Aviv - Ben Gurion International,Israel,91,,,37,52
+2024,01,JAN,2024-01-01,LMML,Malta,Malta,79,81,52,47,5
+2024,01,JAN,2024-01-01,LOWG,Graz,Austria,6,,,4,0
+2024,01,JAN,2024-01-01,LOWI,Innsbruck,Austria,22,,,5,2
+2024,01,JAN,2024-01-01,LOWK,Klagenfurt,Austria,2,,,1,0
+2024,01,JAN,2024-01-01,LOWL,Linz,Austria,4,,,,
+2024,01,JAN,2024-01-01,LOWS,Salzburg,Austria,19,,,9,10
+2024,01,JAN,2024-01-01,LOWW,Vienna,Austria,259,259,151,201,95
+2024,01,JAN,2024-01-01,LPAZ,Santa Maria,Portugal,5,,,,
+2024,01,JAN,2024-01-01,LPCS,Cascais,Portugal,6,,,,
+2024,01,JAN,2024-01-01,LPFL,Flores,Portugal,0,,,,
+2024,01,JAN,2024-01-01,LPFR,Faro,Portugal,53,53,6,37,9
+2024,01,JAN,2024-01-01,LPHR,Horta,Portugal,5,,,,
+2024,01,JAN,2024-01-01,LPMA,Madeira,Portugal,45,,,33,26
+2024,01,JAN,2024-01-01,LPPD,Ponta Delgada,Portugal,23,,,3,0
+2024,01,JAN,2024-01-01,LPPR,Porto,Portugal,143,143,88,123,94
+2024,01,JAN,2024-01-01,LPPS,Porto Santo,Portugal,4,,,2,0
+2024,01,JAN,2024-01-01,LPPT,Lisbon,Portugal,292,292,1547,249,1360
+2024,01,JAN,2024-01-01,LQSA,Sarajevo,Bosnia and Herzegovina,10,,,4,0
+2024,01,JAN,2024-01-01,LROP,Bucharest - Otopeni,Romania,118,118,75,64,25
+2024,01,JAN,2024-01-01,LSGG,Geneva,Switzerland,225,225,83,153,66
+2024,01,JAN,2024-01-01,LSGS,Sion,Switzerland,12,,,,
+2024,01,JAN,2024-01-01,LSZH,Zürich,Switzerland,296,296,363,215,298
+2024,01,JAN,2024-01-01,LTAC,Ankara - Esenboğa,Türkiye,103,,,82,185
+2024,01,JAN,2024-01-01,LTAI,Antalya,Türkiye,120,,,59,122
+2024,01,JAN,2024-01-01,LTBA,Istanbul Atatürk,Türkiye,16,,,,
+2024,01,JAN,2024-01-01,LTBJ,Izmir - Adnan Menderes,Türkiye,73,,,53,44
+2024,01,JAN,2024-01-01,LTFJ,Istanbul Sabiha Gökçen,Türkiye,301,,,98,924
+2024,01,JAN,2024-01-01,LTFM,iGA Istanbul Airport,Türkiye,634,,,485,549
+2024,01,JAN,2024-01-01,LUKK,Chișinău,Moldova,13,,,6,12
+2024,01,JAN,2024-01-01,LWSK,Skopje,Republic of North Macedonia,27,,,6,10
+2024,01,JAN,2024-01-01,LYBE,Belgrade - Nikola Tesla,Serbia,122,,,17,30
+2024,01,JAN,2024-01-01,LYPG,Podgorica,Montenegro,18,,,8,0
+2024,01,JAN,2024-01-01,LZIB,Bratislava,Slovakia,11,,,8,0
+2024,01,JAN,2024-01-01,UDYZ,Yerevan,Armenia,52,,,2,0
+2024,01,JAN,2024-01-01,UGTB,Tbilisi,Georgia,38,,,8,22
+2024,01,JAN,2024-01-02,EBAW,Antwerp,Belgium,8,,,,
+2024,01,JAN,2024-01-02,EBBR,Brussels,Belgium,221,222,231,139,125
+2024,01,JAN,2024-01-02,EBCI,Charleroi,Belgium,90,90,30,65,9
+2024,01,JAN,2024-01-02,EBLG,Liège,Belgium,26,,,1,0
+2024,01,JAN,2024-01-02,EBOS,Ostend-Bruges,Belgium,6,,,,
+2024,01,JAN,2024-01-02,EDDB,Berlin - Brandenburg,Germany,216,216,113,141,51
+2024,01,JAN,2024-01-02,EDDC,Dresden,Germany,12,12,0,8,0
+2024,01,JAN,2024-01-02,EDDE,Erfurt,Germany,2,2,0,,
+2024,01,JAN,2024-01-02,EDDF,Frankfurt,Germany,495,494,21,331,84
+2024,01,JAN,2024-01-02,EDDG,Muenster-Osnabrueck,Germany,13,,,5,0
+2024,01,JAN,2024-01-02,EDDH,Hamburg,Germany,117,117,57,89,57
+2024,01,JAN,2024-01-02,EDDK,Cologne-Bonn,Germany,125,,,55,18
+2024,01,JAN,2024-01-02,EDDL,Dusseldorf,Germany,148,147,1,95,12
+2024,01,JAN,2024-01-02,EDDM,Munich,Germany,359,359,0,261,33
+2024,01,JAN,2024-01-02,EDDN,Nuremberg,Germany,34,,,16,8
+2024,01,JAN,2024-01-02,EDDP,Leipzig-Halle,Germany,110,120,0,8,0
+2024,01,JAN,2024-01-02,EDDR,Saarbruecken,Germany,1,1,0,1,0
+2024,01,JAN,2024-01-02,EDDS,Stuttgart,Germany,82,85,0,55,18
+2024,01,JAN,2024-01-02,EDDV,Hanover,Germany,50,50,10,22,10
+2024,01,JAN,2024-01-02,EDDW,Bremen,Germany,23,28,0,16,0
+2024,01,JAN,2024-01-02,EETN,Tallinn,Estonia,42,43,15,29,21
+2024,01,JAN,2024-01-02,EETU,Tartu,Estonia,2,,,,
+2024,01,JAN,2024-01-02,EFHK,Helsinki - Vantaa,Finland,204,204,33,180,35
+2024,01,JAN,2024-01-02,EGAA,Belfast - Aldergrove,United Kingdom,61,,,38,2
+2024,01,JAN,2024-01-02,EGAC,Belfast - City Airport,United Kingdom,41,,,9,0
+2024,01,JAN,2024-01-02,EGAE,Londonderry - Eglinton,United Kingdom,4,,,,
+2024,01,JAN,2024-01-02,EGBB,Birmingham,United Kingdom,103,103,121,58,62
+2024,01,JAN,2024-01-02,EGCC,Manchester,United Kingdom,227,,,132,97
+2024,01,JAN,2024-01-02,EGGD,Bristol,United Kingdom,89,89,5,66,43
+2024,01,JAN,2024-01-02,EGGW,London - Luton,United Kingdom,162,162,58,64,86
+2024,01,JAN,2024-01-02,EGHI,Southampton,United Kingdom,27,,,2,0
+2024,01,JAN,2024-01-02,EGKB,Biggin Hill,United Kingdom,21,,,,
+2024,01,JAN,2024-01-02,EGKK,London - Gatwick,United Kingdom,302,,,197,291
+2024,01,JAN,2024-01-02,EGLC,London - City,United Kingdom,56,56,7,17,7
+2024,01,JAN,2024-01-02,EGLF,Farnborough,United Kingdom,42,,,,
+2024,01,JAN,2024-01-02,EGLL,London - Heathrow,United Kingdom,611,,,143,487
+2024,01,JAN,2024-01-02,EGNT,Newcastle,United Kingdom,52,,,19,8
+2024,01,JAN,2024-01-02,EGNX,East Midlands,United Kingdom,67,,,14,2
+2024,01,JAN,2024-01-02,EGPD,Aberdeen,United Kingdom,34,35,0,12,0
+2024,01,JAN,2024-01-02,EGPF,Glasgow,United Kingdom,81,83,36,28,2
+2024,01,JAN,2024-01-02,EGPH,Edinburgh,United Kingdom,126,126,49,73,49
+2024,01,JAN,2024-01-02,EGSS,London - Stansted,United Kingdom,255,,,197,142
+2024,01,JAN,2024-01-02,EHAM,Amsterdam - Schiphol,Netherlands,581,,,430,1075
+2024,01,JAN,2024-01-02,EHBK,Maastricht-Aachen,Netherlands,8,,,3,5
+2024,01,JAN,2024-01-02,EHGG,Groningen,Netherlands,4,,,,
+2024,01,JAN,2024-01-02,EHLE,Lelystad,Netherlands,1,,,,
+2024,01,JAN,2024-01-02,EHRD,Rotterdam,Netherlands,26,,,,
+2024,01,JAN,2024-01-02,EICK,Cork,Ireland,29,,,23,0
+2024,01,JAN,2024-01-02,EIDL,Donegal,Ireland,2,,,,
+2024,01,JAN,2024-01-02,EIDW,Dublin,Ireland,298,,,227,184
+2024,01,JAN,2024-01-02,EIKN,Connaught,Ireland,4,,,4,0
+2024,01,JAN,2024-01-02,EIKY,Kerry - Farranfore,Ireland,5,,,4,0
+2024,01,JAN,2024-01-02,EINN,Shannon,Ireland,29,,,18,7
+2024,01,JAN,2024-01-02,EIWT,Weston,Ireland,1,,,,
+2024,01,JAN,2024-01-02,EKCH,Copenhagen - Kastrup,Denmark,261,259,10,186,26
+2024,01,JAN,2024-01-02,ELLX,Luxembourg,Luxembourg,75,75,0,52,8
+2024,01,JAN,2024-01-02,ENAL,Alesund,Norway,18,,,13,0
+2024,01,JAN,2024-01-02,ENAN,Andenes,Norway,5,,,5,0
+2024,01,JAN,2024-01-02,ENAT,Alta,Norway,13,,,9,0
+2024,01,JAN,2024-01-02,ENBL,Forde Bringeland,Norway,5,,,5,0
+2024,01,JAN,2024-01-02,ENBN,Bronnoysund Bronnoy,Norway,9,,,3,0
+2024,01,JAN,2024-01-02,ENBO,Bodø,Norway,53,,,45,0
+2024,01,JAN,2024-01-02,ENBR,Bergen,Norway,123,99,0,89,0
+2024,01,JAN,2024-01-02,ENBS,Batsfjord,Norway,4,,,4,0
+2024,01,JAN,2024-01-02,ENBV,Berlevåg,Norway,3,,,3,0
+2024,01,JAN,2024-01-02,ENCN,Kristiansand Kjevik,Norway,13,,,12,0
+2024,01,JAN,2024-01-02,ENDU,Bardufoss,Norway,3,,,3,0
+2024,01,JAN,2024-01-02,ENEV,Harstad - Narvik Evenes,Norway,15,,,14,0
+2024,01,JAN,2024-01-02,ENFL,Florø,Norway,14,,,5,0
+2024,01,JAN,2024-01-02,ENGM,Oslo - Gardermoen,Norway,249,248,40,212,39
+2024,01,JAN,2024-01-02,ENHD,Haugesund,Norway,8,,,8,0
+2024,01,JAN,2024-01-02,ENHF,Hammerfest,Norway,16,,,12,0
+2024,01,JAN,2024-01-02,ENHV,Honningsvåg Valan,Norway,0,,,,
+2024,01,JAN,2024-01-02,ENKB,Kristiansund Kvernberget,Norway,16,,,7,0
+2024,01,JAN,2024-01-02,ENKR,Kirkenes Høybuktmoen,Norway,10,,,9,0
+2024,01,JAN,2024-01-02,ENLK,Leknes,Norway,9,,,7,0
+2024,01,JAN,2024-01-02,ENMH,Mehamn,Norway,4,,,4,0
+2024,01,JAN,2024-01-02,ENML,Molde Årø,Norway,6,,,6,0
+2024,01,JAN,2024-01-02,ENMS,Mosjøen Kjærstad,Norway,13,,,11,0
+2024,01,JAN,2024-01-02,ENNA,Lakselv Banak,Norway,4,,,1,0
+2024,01,JAN,2024-01-02,ENNM,Namsos Høknesøra,Norway,3,,,3,0
+2024,01,JAN,2024-01-02,ENOV,Orsta¿Volda Hovden,Norway,8,,,8,0
+2024,01,JAN,2024-01-02,ENRA,Mo i Rana Røssvoll,Norway,8,,,8,0
+2024,01,JAN,2024-01-02,ENRM,Rorvik Ryum,Norway,3,,,3,0
+2024,01,JAN,2024-01-02,ENRO,Roros,Norway,2,,,2,0
+2024,01,JAN,2024-01-02,ENRS,Rost,Norway,2,,,2,0
+2024,01,JAN,2024-01-02,ENSB,Svalbard Longyear,Norway,2,,,1,0
+2024,01,JAN,2024-01-02,ENSD,Sandane  Anda,Norway,4,,,4,0
+2024,01,JAN,2024-01-02,ENSG,Sogndal Haukåsen,Norway,9,,,9,0
+2024,01,JAN,2024-01-02,ENSH,Svolvær Helle,Norway,7,,,7,0
+2024,01,JAN,2024-01-02,ENSK,Stokmarknes Skagen,Norway,10,,,7,0
+2024,01,JAN,2024-01-02,ENSR,Sorkjosen,Norway,4,,,3,0
+2024,01,JAN,2024-01-02,ENSS,Vardø Svartnes,Norway,0,,,,
+2024,01,JAN,2024-01-02,ENST,Sandnessjøen Stokka,Norway,3,,,,
+2024,01,JAN,2024-01-02,ENTC,Tromsø,Norway,65,,,50,0
+2024,01,JAN,2024-01-02,ENVA,Trondheim,Norway,63,63,0,55,0
+2024,01,JAN,2024-01-02,ENVD,Vadsø,Norway,12,,,10,0
+2024,01,JAN,2024-01-02,ENVR,Værøy,Norway,2,,,,
+2024,01,JAN,2024-01-02,ENZV,Stavanger,Norway,59,50,0,45,0
+2024,01,JAN,2024-01-02,EPBY,Bydgoszcz,Poland,3,,,3,0
+2024,01,JAN,2024-01-02,EPGD,Gdansk,Poland,56,,,30,3
+2024,01,JAN,2024-01-02,EPKK,Krakow - Balice,Poland,88,,,70,42
+2024,01,JAN,2024-01-02,EPKT,Katowice - Pyrzowice,Poland,37,,,9,0
+2024,01,JAN,2024-01-02,EPLB,Lublin,Poland,2,,,1,0
+2024,01,JAN,2024-01-02,EPLL,Lodz - Lublinek,Poland,3,,,3,0
+2024,01,JAN,2024-01-02,EPMO,Warszawa - Modlin,Poland,25,,,22,9
+2024,01,JAN,2024-01-02,EPPO,Poznan - Lawica,Poland,29,,,22,0
+2024,01,JAN,2024-01-02,EPRA,Radom,Poland,2,,,2,0
+2024,01,JAN,2024-01-02,EPRZ,Rzeszow - Jasionka,Poland,14,,,9,0
+2024,01,JAN,2024-01-02,EPSC,Szczecin - Goleniów,Poland,5,,,5,0
+2024,01,JAN,2024-01-02,EPSY,Olsztyn-Mazury,Poland,2,,,,
+2024,01,JAN,2024-01-02,EPWA,Warszawa - Chopina,Poland,205,204,179,148,119
+2024,01,JAN,2024-01-02,EPWR,Wroclaw - Strachowice,Poland,40,,,30,8
+2024,01,JAN,2024-01-02,EPZG,Zielona Gora - Babimost,Poland,1,,,1,0
+2024,01,JAN,2024-01-02,ESGG,Göteborg,Sweden,59,59,5,42,5
+2024,01,JAN,2024-01-02,ESSA,Stockholm - Arlanda,Sweden,217,213,31,166,43
+2024,01,JAN,2024-01-02,ESSB,Stockholm - Bromma,Sweden,29,,,2,0
+2024,01,JAN,2024-01-02,EVRA,Riga,Latvia,72,72,6,63,20
+2024,01,JAN,2024-01-02,EYKA,Kaunas,Lithuania,16,,,11,0
+2024,01,JAN,2024-01-02,EYPA,Palanga,Lithuania,4,,,4,0
+2024,01,JAN,2024-01-02,EYSA,Siauliai,Lithuania,5,,,,
+2024,01,JAN,2024-01-02,EYVI,Vilnius,Lithuania,44,,,31,0
+2024,01,JAN,2024-01-02,GCFV,Fuerteventura,Spain,65,64,0,39,0
+2024,01,JAN,2024-01-02,GCGM,La Gomera,Spain,4,,,4,0
+2024,01,JAN,2024-01-02,GCHI,Hierro,Spain,6,,,5,0
+2024,01,JAN,2024-01-02,GCLA,La Palma,Spain,30,,,21,0
+2024,01,JAN,2024-01-02,GCLP,Gran Canaria,Spain,181,176,89,109,53
+2024,01,JAN,2024-01-02,GCRR,Lanzarote,Spain,112,110,6,64,24
+2024,01,JAN,2024-01-02,GCTS,Tenerife Sur - Reina Sofia,Spain,151,148,41,80,47
+2024,01,JAN,2024-01-02,GCXO,Tenerife North,Spain,90,,,65,32
+2024,01,JAN,2024-01-02,GEML,Melilla,Spain,12,,,,
+2024,01,JAN,2024-01-02,GMAD,Al Massira,Morocco,28,,,15,5
+2024,01,JAN,2024-01-02,GMFF,Saïss,Morocco,23,,,11,10
+2024,01,JAN,2024-01-02,GMME,Rabat-Salé,Morocco,28,,,10,25
+2024,01,JAN,2024-01-02,GMMN,Mohammed V International,Morocco,119,,,8,11
+2024,01,JAN,2024-01-02,GMMX,Menara,Morocco,106,,,58,141
+2024,01,JAN,2024-01-02,GMTT,Ibn Batouta,Morocco,27,,,9,0
+2024,01,JAN,2024-01-02,LATI,Tirana,Albania,88,,,22,9
+2024,01,JAN,2024-01-02,LBSF,Sofia,Bulgaria,103,103,3,46,6
+2024,01,JAN,2024-01-02,LCLK,Larnaca,Cyprus,58,,,20,10
+2024,01,JAN,2024-01-02,LCPH,Paphos,Cyprus,16,,,13,3
+2024,01,JAN,2024-01-02,LDZA,Zagreb,Croatia,63,62,8,20,3
+2024,01,JAN,2024-01-02,LEAL,Alicante,Spain,124,122,86,80,75
+2024,01,JAN,2024-01-02,LEAM,Almeria,Spain,6,,,,
+2024,01,JAN,2024-01-02,LEAS,Asturias,Spain,21,,,7,0
+2024,01,JAN,2024-01-02,LEBB,Bilbao,Spain,54,54,20,39,5
+2024,01,JAN,2024-01-02,LEBL,Barcelona,Spain,427,,,318,164
+2024,01,JAN,2024-01-02,LEBZ,Badajoz,Spain,3,,,,
+2024,01,JAN,2024-01-02,LECO,La Coruna,Spain,12,,,6,4
+2024,01,JAN,2024-01-02,LECU,Madrid - Cuatro Viento,Spain,0,,,,
+2024,01,JAN,2024-01-02,LEDA,Lleida - Alguaire,Spain,0,,,,
+2024,01,JAN,2024-01-02,LEGE,Gerona,Spain,4,,,1,0
+2024,01,JAN,2024-01-02,LEGR,Granada,Spain,11,,,7,1
+2024,01,JAN,2024-01-02,LEGT,Madrid - Getafe,Spain,0,,,,
+2024,01,JAN,2024-01-02,LEIB,Ibiza,Spain,51,,,21,0
+2024,01,JAN,2024-01-02,LEJR,Jerez De La Frontera,Spain,10,,,3,0
+2024,01,JAN,2024-01-02,LELL,Sabadell,Spain,4,,,,
+2024,01,JAN,2024-01-02,LELN,Leon,Spain,2,,,,
+2024,01,JAN,2024-01-02,LEMD,Madrid - Barajas,Spain,547,,,239,271
+2024,01,JAN,2024-01-02,LEMG,Málaga,Spain,212,209,112,131,217
+2024,01,JAN,2024-01-02,LEMH,Mahon,Spain,17,,,4,1
+2024,01,JAN,2024-01-02,LEMO,Seville - Moron,Spain,3,,,,
+2024,01,JAN,2024-01-02,LEPA,Palma de Mallorca,Spain,166,,,107,33
+2024,01,JAN,2024-01-02,LEPP,Noain Pamplona,Spain,4,,,,
+2024,01,JAN,2024-01-02,LERT,Rota,Spain,5,,,,
+2024,01,JAN,2024-01-02,LESB,Son Bonet,Spain,1,,,,
+2024,01,JAN,2024-01-02,LESO,San Sebastian,Spain,9,,,3,0
+2024,01,JAN,2024-01-02,LEST,Santiago,Spain,30,,,22,0
+2024,01,JAN,2024-01-02,LETO,Madrid - Torrejon,Spain,3,,,,
+2024,01,JAN,2024-01-02,LEVC,Valencia,Spain,86,86,6,59,18
+2024,01,JAN,2024-01-02,LEVD,Valladolid,Spain,4,,,1,0
+2024,01,JAN,2024-01-02,LEVT,Vitoria,Spain,18,,,2,0
+2024,01,JAN,2024-01-02,LEVX,Vigo,Spain,14,,,8,1
+2024,01,JAN,2024-01-02,LEXJ,Santander,Spain,9,,,6,0
+2024,01,JAN,2024-01-02,LEZG,Zaragoza,Spain,11,,,2,0
+2024,01,JAN,2024-01-02,LEZL,Sevilla,Spain,79,,,49,2
+2024,01,JAN,2024-01-02,LFAQ,Albert-Bray,France,1,,,,
+2024,01,JAN,2024-01-02,LFBA,Agen-La Garenne,France,1,,,,
+2024,01,JAN,2024-01-02,LFBD,Bordeaux-Mérignac,France,80,,,48,9
+2024,01,JAN,2024-01-02,LFBE,Bergerac-Roumanière,France,2,,,,
+2024,01,JAN,2024-01-02,LFBH,La Rochelle-Ile de Ré,France,2,,,,
+2024,01,JAN,2024-01-02,LFBI,Poitiers-Biard,France,1,,,1,0
+2024,01,JAN,2024-01-02,LFBL,Limoges-Bellegarde,France,5,,,2,0
+2024,01,JAN,2024-01-02,LFBO,Toulouse-Blagnac,France,91,91,51,57,51
+2024,01,JAN,2024-01-02,LFBP,Pau-Pyrénées,France,5,,,3,0
+2024,01,JAN,2024-01-02,LFBT,Tarbes-Lourdes Pyrénées,France,4,,,,
+2024,01,JAN,2024-01-02,LFBZ,Biarritz-Bayonne-Anglet,France,7,,,4,0
+2024,01,JAN,2024-01-02,LFCR,Rodez-Marcillac,France,2,,,,
+2024,01,JAN,2024-01-02,LFGJ,Dôle-Tavaux,France,3,,,3,0
+2024,01,JAN,2024-01-02,LFJL,Metz-Nancy-Lorraine,France,1,,,,
+2024,01,JAN,2024-01-02,LFKB,Bastia-Poretta,France,21,,,,
+2024,01,JAN,2024-01-02,LFKC,Calvi-Sainte-Catherine,France,5,,,1,0
+2024,01,JAN,2024-01-02,LFKF,Figari-Sud Corse,France,5,,,,
+2024,01,JAN,2024-01-02,LFKJ,Ajaccio-Napoléon-Bonaparte,France,21,,,1,0
+2024,01,JAN,2024-01-02,LFLB,Chambéry-Aix-les-Bains,France,34,,,,
+2024,01,JAN,2024-01-02,LFLC,Clermont-Ferrand-Auvergne,France,5,,,4,0
+2024,01,JAN,2024-01-02,LFLI,Annemasse,France,1,,,,
+2024,01,JAN,2024-01-02,LFLL,Lyon-Saint-Exupéry,France,114,113,73,56,10
+2024,01,JAN,2024-01-02,LFLP,Annecy-Meythet,France,11,,,,
+2024,01,JAN,2024-01-02,LFLS,Grenoble-Isère,France,16,,,2,0
+2024,01,JAN,2024-01-02,LFLX,Châteauroux-Déols,France,1,,,,
+2024,01,JAN,2024-01-02,LFLY,Lyon-Bron,France,6,,,,
+2024,01,JAN,2024-01-02,LFMD,Cannes-Mandelieu,France,13,,,,
+2024,01,JAN,2024-01-02,LFMI,Istres-Le Tubé,France,1,,,,
+2024,01,JAN,2024-01-02,LFMK,Carcassonne-Salvaza,France,2,,,1,0
+2024,01,JAN,2024-01-02,LFML,Marseille-Provence,France,115,115,16,59,26
+2024,01,JAN,2024-01-02,LFMN,Nice-Côte d’Azur,France,145,145,98,76,59
